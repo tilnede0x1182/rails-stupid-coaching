@@ -34,14 +34,13 @@ blockquote {
 
 .question {
   padding: 10px;
-  border-left: 3px solid #6c757d;
+  border-left: 5px solid #6c757d;
   font-style: italic;
 }
 
 .answer {
-  background-color: #fff3cd;
+  background-color: #FFFEE2;
   padding: 15px;
-  border-radius: 5px;
   font-weight: bold;
-  border-left: 3px solid #ffcc00;
+  border-left: 5px solid #6c757d;
 }
