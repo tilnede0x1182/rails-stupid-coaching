@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+blockquote {
+  font-style: italic;
+  color: #6c757d;
+}
+
+.question {
+  padding: 10px;
+  border-left: 3px solid #6c757d;
+  font-style: italic;
+}
+
+.answer {
+  background-color: #fff3cd;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  border-left: 3px solid #ffcc00;
+}
